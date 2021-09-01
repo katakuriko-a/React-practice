@@ -11,7 +11,7 @@ const users = [...Array(10).keys()].map((val) => {
     company: {
       name: "くうあ株式会社"
     },
-    website: "https//google.com"
+    website: "https://google.com"
   };
 });
 
